@@ -1,0 +1,64 @@
+         5 NumberOfSections
+0x00012492 OptionalHeader.AddressOfEntryPoint
+
+
+.text
+0x000057b6 VirtualSize
+0x00001000 VirtualAddress
+0x00000400 PointerToRawData
+0x00005800 SizeOfRawData
+0x00000000 PointerToRelocations
+0x00000000 NumberOfRelocations
+0x00000000 PointerToLinenumbers
+0x00000000 NumberOfLinenumbers
+0x60000020 Characteristics
+
+
+.rdata
+0x00001190 VirtualSize
+0x00007000 VirtualAddress
+0x00005c00 PointerToRawData
+0x00001200 SizeOfRawData
+0x00000000 PointerToRelocations
+0x00000000 NumberOfRelocations
+0x00000000 PointerToLinenumbers
+0x00000000 NumberOfLinenumbers
+0x40000040 Characteristics
+
+
+.data
+0x0001afd8 VirtualSize
+0x00009000 VirtualAddress
+0x00006e00 PointerToRawData
+0x00000400 SizeOfRawData
+0x00000000 PointerToRelocations
+0x00000000 NumberOfRelocations
+0x00000000 PointerToLinenumbers
+0x00000000 NumberOfLinenumbers
+0xc0000040 Characteristics
+
+
+.ndata
+0x00008000 VirtualSize
+0x00024000 VirtualAddress
+0x00000000 PointerToRawData
+0x00000000 SizeOfRawData
+0x00000000 PointerToRelocations
+0x00000000 NumberOfRelocations
+0x00000000 PointerToLinenumbers
+0x00000000 NumberOfLinenumbers
+0xc0000080 Characteristics
+
+
+.rsrc
+0x00000e58 VirtualSize
+0x0002c000 VirtualAddress
+0x00007200 PointerToRawData
+0x00001000 SizeOfRawData
+0x00000000 PointerToRelocations
+0x00000000 NumberOfRelocations
+0x00000000 PointerToLinenumbers
+0x00000000 NumberOfLinenumbers
+0x40000040 Characteristics
+
+
